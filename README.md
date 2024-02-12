@@ -1,0 +1,2 @@
+# SkyLott
+Gamified Educational Application
